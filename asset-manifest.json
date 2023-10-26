@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Babs-Ofeosi-Portfolio/static/css/main.a33e0760.css",
+    "main.js": "/Babs-Ofeosi-Portfolio/static/js/main.1c21ec93.js",
+    "static/js/787.7efc3e92.chunk.js": "/Babs-Ofeosi-Portfolio/static/js/787.7efc3e92.chunk.js",
+    "static/media/logo-babs.png": "/Babs-Ofeosi-Portfolio/static/media/logo-babs.e3037452d6c06fd39084.png",
+    "static/media/logo-s.png": "/Babs-Ofeosi-Portfolio/static/media/logo-s.9d2acdc6d591fd138268.png",
+    "static/media/logo_sub.png": "/Babs-Ofeosi-Portfolio/static/media/logo_sub.d507b53af207d2091db9.png",
+    "static/media/helvetica-neu.ttf": "/Babs-Ofeosi-Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff": "/Babs-Ofeosi-Portfolio/static/media/LaBelleAurore.9c5433c64baa43d1d274.woff",
+    "static/media/LaBelleAurore.woff2": "/Babs-Ofeosi-Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff": "/Babs-Ofeosi-Portfolio/static/media/CoolveticaRg-Regular.8307bfa187bccdc55f4d.woff",
+    "static/media/CoolveticaRg-Regular.woff2": "/Babs-Ofeosi-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/Babs-Ofeosi-Portfolio/index.html",
+    "main.a33e0760.css.map": "/Babs-Ofeosi-Portfolio/static/css/main.a33e0760.css.map",
+    "main.1c21ec93.js.map": "/Babs-Ofeosi-Portfolio/static/js/main.1c21ec93.js.map",
+    "787.7efc3e92.chunk.js.map": "/Babs-Ofeosi-Portfolio/static/js/787.7efc3e92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a33e0760.css",
+    "static/js/main.1c21ec93.js"
+  ]
+}
