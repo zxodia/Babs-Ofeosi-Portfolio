@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Babs-Ofeosi-Portfolio/static/css/main.a33e0760.css",
-    "main.js": "/Babs-Ofeosi-Portfolio/static/js/main.1c21ec93.js",
+    "main.js": "/Babs-Ofeosi-Portfolio/static/js/main.ce439dc7.js",
     "static/js/787.7efc3e92.chunk.js": "/Babs-Ofeosi-Portfolio/static/js/787.7efc3e92.chunk.js",
     "static/media/logo-babs.png": "/Babs-Ofeosi-Portfolio/static/media/logo-babs.e3037452d6c06fd39084.png",
     "static/media/logo-s.png": "/Babs-Ofeosi-Portfolio/static/media/logo-s.9d2acdc6d591fd138268.png",
@@ -13,11 +13,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/Babs-Ofeosi-Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/Babs-Ofeosi-Portfolio/index.html",
     "main.a33e0760.css.map": "/Babs-Ofeosi-Portfolio/static/css/main.a33e0760.css.map",
-    "main.1c21ec93.js.map": "/Babs-Ofeosi-Portfolio/static/js/main.1c21ec93.js.map",
+    "main.ce439dc7.js.map": "/Babs-Ofeosi-Portfolio/static/js/main.ce439dc7.js.map",
     "787.7efc3e92.chunk.js.map": "/Babs-Ofeosi-Portfolio/static/js/787.7efc3e92.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a33e0760.css",
-    "static/js/main.1c21ec93.js"
+    "static/js/main.ce439dc7.js"
   ]
 }
